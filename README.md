@@ -1,0 +1,2 @@
+# JavaScript-FUNCTIONS
+DEFINTIONS - INVOCATION - call( ) - apply( ) - COUNTER DILEMMA
