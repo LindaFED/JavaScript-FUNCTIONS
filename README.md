@@ -1,5 +1,6 @@
 # JavaScript-FUNCTIONS
 DEFINTIONS - INVOCATION - call( ) - apply( ) - COUNTER DILEMMA
+
 In the jsfunctions.js file you will find a code example for each of the arguments in the list below
 
 FUNCTION DEFINTIONS
